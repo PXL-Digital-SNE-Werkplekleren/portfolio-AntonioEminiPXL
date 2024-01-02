@@ -1,5 +1,5 @@
 # Inleiding
-Het portfolio is in eerste instantie bedoeld voor mijzelf, als hulpmiddel bij de reflectie op mijn leer- en werkervaringen tijdens mijn werkplekleren (WPL). Het biedt mij houvast om een overzicht van het verloop in WPL op te volgen en inzicht te krijgen in mijn eigen leerproces. ik kan op termijn laten zien hoe het staat met je ontwikkeling, mijn keuzes te verantwoorden en mijn plannen toe te lichten.
+Het portfolio is in eerste instantie bedoeld voor mijzelf, als hulpmiddel bij de reflectie op mijn leer- en werkervaringen tijdens mijn werkplekleren (WPL). Het biedt mij houvast om een overzicht van het verloop in WPL op te volgen en inzicht te krijgen in mijn eigen leerproces. ik kan op termijn laten zien hoe het staat met mijn ontwikkeling, mijn keuzes te verantwoorden en mijn plannen toe te lichten.
 
 Mijn portfolio is daarnaast ook een zeer bruikbaar en functioneel instrument om mijn coaches de mogelijkheid te bieden om mij gerichter te begeleiden, mij te ondersteunen en bij te sturen.
 
