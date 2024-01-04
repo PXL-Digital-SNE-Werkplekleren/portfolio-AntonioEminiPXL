@@ -1,7 +1,7 @@
 # Overzicht Ontwikkelingsgesprekken
 
 ## Overzicht ontwikkelingsgesprekken WPL 1
-<Strong>Mijn keuze voor de opleiding></Strong>
+<Strong><i></i>Mijn keuze voor de opleiding></i></Strong>
 Noteer hier in max. 5 zinnen waarom je voor de opleiding “Systemen en Netwerken” gekozen hebt. Welk deel uit de opleiding interesseert jou het meest? Wat denk je te gaan doen later, in welk soort organisatie? (voor zover je daar al een beeld van hebt) Waarom denk je dat dit beroep bij jou past?
 
 <Strong>Mijn beeld van dit beroep</Strong>
