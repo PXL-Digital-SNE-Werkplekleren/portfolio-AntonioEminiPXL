@@ -21,8 +21,8 @@ Je mag de volgende punten in bullets noteren maar je moet wel volledige, correct
 <Strong>Soft skills:</Strong>
 
 
-<Strong><p style ="font-size: 40px;">Dit zijn mijn ontwikkelpunten waarin ik tijdens WPL2 beter hoop te worden:
-(ontwikkelpunten zijn skills (technische/soft skills) waarin je beter wil worden, waarin je wil groeien)</p></Strong>
+<Strong><p1 style ="font-size: 40px;">Dit zijn mijn ontwikkelpunten waarin ik tijdens WPL2 beter hoop te worden:
+(ontwikkelpunten zijn skills (technische/soft skills) waarin je beter wil worden, waarin je wil groeien)</p1></Strong>
 
 
 
