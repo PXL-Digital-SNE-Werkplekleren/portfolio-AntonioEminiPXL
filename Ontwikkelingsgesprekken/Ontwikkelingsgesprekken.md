@@ -17,17 +17,14 @@ Je mag de volgende punten in bullets noteren maar je moet wel volledige, correct
 ...
 <Strong>Dit zijn mijn sterke punten die ik deze semester heb geïdentificeerd (technische en soft skills). Vertel er ook bij of je ze al gebruikt hebt en zo ja, hoe. Technische skills:</Strong>
 
-...
-...
-<Strong><h1>Soft skills:</h1></Strong>
 
-...
-...
-<Strong><h1>Dit zijn mijn ontwikkelpunten waarin ik tijdens WPL2 beter hoop te worden:
-(ontwikkelpunten zijn skills (technische/soft skills) waarin je beter wil worden, waarin je wil groeien)</h1></Strong>
+<Strong>Soft skills:</Strong>
 
-...
-...
+
+<Strong><p style = "font-style:16px">Dit zijn mijn ontwikkelpunten waarin ik tijdens WPL2 beter hoop te worden:
+(ontwikkelpunten zijn skills (technische/soft skills) waarin je beter wil worden, waarin je wil groeien)</p></Strong>
+
+
 
 ## Overzicht ontwikkelingsgesprekken WPL 2
 
