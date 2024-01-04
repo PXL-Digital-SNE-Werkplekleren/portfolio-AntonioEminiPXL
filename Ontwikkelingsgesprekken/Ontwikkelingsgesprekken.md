@@ -12,12 +12,10 @@ Je mag de volgende punten in bullets noteren maar je moet wel volledige, correct
 
 <Strong>>Mijn belangrijke leermomenten van WPL1 waren de volgende:</Strong>
 
-<p style= "font-size:40px"> hahaha </p>
-
 ...
 ...
 ...
-<Strong>Dit zijn mijn sterke punten die ik deze semester heb geïdentificeerd (technische en soft skills). Vertel er ook bij of je ze al gebruikt hebt en zo ja, hoe. Technische skills:</Strong>
+<Strong> <bold>Dit zijn mijn sterke punten die ik deze semester heb geïdentificeerd (technische en soft skills). Vertel er ook bij of je ze al gebruikt hebt en zo ja, hoe. Technische skills:</Strong></bold>
 
 
 <Strong>Soft skills:</Strong>
