@@ -7,23 +7,24 @@ Ik heb de opleiding Systeem en netwerkbeheer gekozen omdat ik graag oftewel in d
 
 <Strong><i>Mijn beeld van dit beroep</i></Strong>
 
-Mijn beeld van dit beroep na het volgen van WPL1, analyse van vacatures en gastseminaris is dat er erg veel helpdesk vacatures zijn. Ik zie mijzelf nadat ik heb afgestudeerd,  als een junior helpdeskmedewerker/netwerkbeheerder werken. Ik zie mezelf tickets oplossen en ook zie ik mezelf ervaring opbouwen in de cloud omgeving als junior. Dat is mijn eerste doel. Een job vinden als junior waar ik in contact kan komen met de cloud zodat ik in de toekomst als cloud architect kan werken. Ik zie mezelf dan in de verder toekomst als cloud architect werken voor zeer grote bedrijven waar ik duizenden computers moet beheren. Een ook zie ik mezelf vooral van thuis werken. Als ik goed betaald wordt en de mogelijkheid heb om 100% thuis te werken, zal ik verhuizen naar Noord-Macedonië en mijn leven genieten in een laag inkomen land met mijn hoog inkomen.
+Mijn beeld van dit beroep na het volgen van WPL1, analyse van vacatures en gastseminaries is dat er erg veel helpdesk vacatures zijn. Ik zie mijzelf nadat ik heb afgestudeerd,  als een junior helpdeskmedewerker/netwerkbeheerder werken. Ik zie mezelf tickets oplossen en ook zie ik mezelf ervaring opbouwen in de cloud omgeving als junior. Dat is mijn eerste doel. Een job vinden als junior waar ik in contact kan komen met de cloud zodat ik in de toekomst als cloud architect kan werken. Ik zie mezelf dan in de verder toekomst als cloud architect werken voor zeer grote bedrijven waar ik duizenden computers moet beheren. Een ook zie ik mezelf vooral van thuis werken. Als ik goed betaald wordt en de mogelijkheid heb om 100% thuis te werken, zal ik verhuizen naar Noord-Macedonië en mijn leven genieten in een laag inkomen land met mijn hoog inkomen.
 
 <Strong><i>Mijn evolutie tijdens WPL1</i></Strong>
 
 Je mag de volgende punten in bullets noteren maar je moet wel volledige, correct Nederlandse zinnen maken. Voorbeelden vind je in het voorbeeld-portfolio.
 
-<Strong><i>Mijn belangrijke leermomenten van WPL1 waren de volgende:</Strong>
+Mijn belangrijke leermomenten van WPL1 waren de volgende:
 
+* Het leren van hoe een ICT afdeeling werkt via de gastseminaris
+* Het leren van hoe je juist moet plannen
+* het leren van github via pluralsight 
 
-...
-...
-...
-<Strong><i>Dit zijn mijn sterke punten die ik deze semester heb geïdentificeerd (technische en soft skills). Vertel er ook bij of je ze al gebruikt hebt en zo ja, hoe. Technische skills:</i></Strong>
+:Dit zijn mijn <strong>sterke</strong> punten die ik deze semester heb geïdentificeerd (technische en soft skills). Vertel er ook bij of je ze al gebruikt hebt en zo ja, hoe. Technische skills:
 
-
-
-<Strong><i>Soft skills:</i></Strong>
+* Juiste informatie zoeken, dit moesten we wanneer we de OLR app zelfstandig moesten maken(technisch).
+* Samenwerken met de collega's, dit moesten we doen wanneer we samen met willekeurige collega's van SNE om de opdracht actualiteit te maken(soft).
+* gemmakelijk kan omgaan met cijfers, dit moesten we doen wanneer we de toest talstelsels moesten maken(tecnhisch).
+* goed kunnen communiceren met leerkrreachten indien ik iets niet begreep of fout deed. dit was bij de opdracht POP reflectieopdracht(soft).
 
 
 <Strong> <i>zijn mijn ontwikkelpunten waarin ik tijdens WPL2 beter hoop te worden:
