@@ -7,7 +7,7 @@ In de uitwerking van het portfolio neem ik alle opdrachten op en reflecteer ik m
 # persoonlijke info
 
 ![alt text](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-AntonioEminiPXL/blob/main/images/CV_Antonio.png "Logo Title Text 1")
-<img src="./images/CV_Antonio.png" alt="lasagna">
+<img src="./images/CV_Antonio.png" alt="CV_Antonio">
 
 
 
