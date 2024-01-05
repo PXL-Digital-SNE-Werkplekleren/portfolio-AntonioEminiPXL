@@ -15,16 +15,16 @@ Je mag de volgende punten in bullets noteren maar je moet wel volledige, correct
 
 Mijn belangrijke leermomenten van WPL1 waren de volgende:
 
-* Het leren van hoe een ICT afdeeling werkt via de gastseminaris
-* Het leren van hoe je juist moet plannen
-* het leren van github via pluralsight 
+* Het leren van hoe een ICT afdeeling werkt via de gastseminaries.
+* Het leren van hoe je juist moet plannen via de opdracht Planning.
+* Het leren van github via pluralsight.
 
-:Dit zijn mijn <strong>sterke</strong> punten die ik deze semester heb geïdentificeerd (technische en soft skills). Vertel er ook bij of je ze al gebruikt hebt en zo ja, hoe. Technische skills:
+Dit zijn mijn <strong>sterke</strong> punten die ik deze semester heb geïdentificeerd (technische en soft skills).:
 
-* Juiste informatie zoeken, dit moesten we wanneer we de OLR app zelfstandig moesten maken(technisch).
-* Samenwerken met de collega's, dit moesten we doen wanneer we samen met willekeurige collega's van SNE om de opdracht actualiteit te maken(soft).
-* gemmakelijk kan omgaan met cijfers, dit moesten we doen wanneer we de toest talstelsels moesten maken(tecnhisch).
-* goed kunnen communiceren met leerkrreachten indien ik iets niet begreep of fout deed. dit was bij de opdracht POP reflectieopdracht(soft).
+* Juiste informatie zoeken, dit moesten we wanneer we de OLR app zelfstandig moesten maken.(technisch)
+* Samenwerken met de collega's, dit moesten we doen wanneer we samen met willekeurige collega's van SNE om de opdracht actualiteit te maken.(soft)
+* Gemmakelijk kan omgaan met cijfers, dit moesten we doen wanneer we de toest talstelsels moesten maken.(tecnhisch)
+* Goed kunnen communiceren met leerkrreachten indien ik iets niet begreep of fout deed. dit was bij de opdracht POP reflectieopdracht.(soft)
 
 
 <Strong> <i>zijn mijn ontwikkelpunten waarin ik tijdens WPL2 beter hoop te worden:
