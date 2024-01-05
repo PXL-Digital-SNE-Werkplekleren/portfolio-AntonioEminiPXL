@@ -11,8 +11,6 @@ Mijn beeld van dit beroep na het volgen van WPL1, analyse van vacatures en gasts
 
 <Strong><i>Mijn evolutie tijdens WPL1</i></Strong>
 
-Je mag de volgende punten in bullets noteren maar je moet wel volledige, correct Nederlandse zinnen maken. Voorbeelden vind je in het voorbeeld-portfolio.
-
 Mijn belangrijke leermomenten van WPL1 waren de volgende:
 
 * Het leren van hoe een ICT afdeeling werkt via de gastseminaries.
@@ -21,10 +19,10 @@ Mijn belangrijke leermomenten van WPL1 waren de volgende:
 
 Dit zijn mijn <strong>sterke</strong> punten die ik deze semester heb geïdentificeerd (technische en soft skills).:
 
-* Juiste informatie zoeken, dit moesten we wanneer we de OLR app zelfstandig moesten maken. ->(technisch)
-* Samenwerken met de collega's, dit moesten we doen wanneer we samen met willekeurige collega's van SNE om de opdracht actualiteit te maken. ->(soft)
-* Gemmakelijk kan omgaan met cijfers, dit moesten we doen wanneer we de toest talstelsels moesten maken.-> (tecnhisch)
-* Goed kunnen communiceren met leerkrreachten indien ik iets niet begreep of fout deed. dit was bij de opdracht POP reflectieopdracht. ->(soft)
+* Juiste informatie zoeken, dit moesten we wanneer we de OLR app zelfstandig moesten maken. (technisch)
+* Samenwerken met de collega's, dit moesten we doen wanneer we samen met willekeurige collega's van SNE om de opdracht actualiteit te maken. (soft)
+* Gemmakelijk kan omgaan met cijfers, dit moesten we doen wanneer we de toest talstelsels moesten maken. (tecnhisch)
+* Goed kunnen communiceren met leerkrreachten indien ik iets niet begreep of fout deed. dit was bij de opdracht POP reflectieopdracht. (soft)
 
 
 <Strong> <i>zijn mijn ontwikkelpunten waarin ik tijdens WPL2 beter hoop te worden:
