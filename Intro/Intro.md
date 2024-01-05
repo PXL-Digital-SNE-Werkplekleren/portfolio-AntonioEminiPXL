@@ -12,4 +12,10 @@ In de uitwerking van het portfolio neem ik alle opdrachten op en reflecteer ik m
 
 ![](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-AntonioEminiPXL/blob/main/images/CV_Antonio.png)>
 
+<img src="./images/CV_Antonio.png" alt="CV_Antonio">
+
+<img src="../images/CV_Antonio.png" alt="CV_Antonio">
+
+<img src=".../images/CV_Antonio.png" alt="CV_Antonio">
+
 
