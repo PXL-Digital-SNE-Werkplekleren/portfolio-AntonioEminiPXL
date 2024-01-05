@@ -3,7 +3,7 @@
 ## Overzicht ontwikkelingsgesprekken WPL 1
 <Strong><i>Mijn keuze voor de opleiding</i></Strong>
 
-Ik heb de opleiding Systeem en netwerkbeheer gekozen omdat ik graag oftewel in de security richting wil werken oftewel in de cloud richting bij Essers of Workr. Mijn favoriete vakken zijn Network essentials, Linux essentials en de opkomende vak security essentials dat volgende jaar zal komen. De reden waarom deze vakken mijn favoriete vakken zijn is, omdat ze het meeste impact hebben en het meeste effect zullen hebben op mijn job dat ik zal willen. Ik denk dat graag in deze richting wil, is, omdat ik lui ben en dat ik van thuis kan werken. Ook heb ik al ervaring met computers en dat maakt de opleiding wat gemakkelijker.
+Ik heb de opleiding Systeem en netwerkbeheer gekozen omdat ik graag oftewel in de security richting wil werken oftewel in de cloud richting bij Essers of Workr. Mijn favoriete vakken zijn Network essentials, Linux essentials en de opkomende vak security essentials dat volgende jaar zal komen. De reden waarom deze vakken mijn favoriete vakken zijn is, omdat ze het meeste impact hebben en het meeste effect zullen hebben op mijn job dat ik zal willen. De reden waarom ik graag deze richting wil gaan is, omdat ik lui ben en dat ik van thuis kan werken. Ook heb ik al ervaring met computers en dat maakt de opleiding wat gemakkelijker.
 
 <Strong><i>Mijn beeld van dit beroep</i></Strong>
 
