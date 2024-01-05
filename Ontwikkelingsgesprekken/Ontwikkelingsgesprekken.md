@@ -5,7 +5,7 @@
 
 Noteer hier in max. 5 zinnen waarom je voor de opleiding “Systemen en Netwerken” gekozen hebt. Welk deel uit de opleiding interesseert jou het meest? Wat denk je te gaan doen later, in welk soort organisatie? (voor zover je daar al een beeld van hebt) Waarom denk je dat dit beroep bij jou past?
 
-<Strong><i>Mijn beeld van dit beroep</i></Strong>
+###<Strong><i>Mijn beeld van dit beroep</i></Strong>
 
 Beschrijf in min. 5 à 10 zinnen hoe jij de invulling van dit beroep ziet. Welk beeld heb je gekregen na het volgen van WPL1 (bv. door je analyse van vacatures, gastseminaries, opdrachten enz).
 
