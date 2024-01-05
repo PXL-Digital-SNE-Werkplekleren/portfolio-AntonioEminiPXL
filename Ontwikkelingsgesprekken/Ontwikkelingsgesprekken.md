@@ -10,6 +10,7 @@ Ik heb de opleiding Systeem en netwerkbeheer gekozen omdat ik graag oftewel in d
 Mijn beeld van dit beroep na het volgen van WPL1, analyse van vacatures en gastseminaries is dat er erg veel helpdesk vacatures zijn. Ik zie mijzelf nadat ik heb afgestudeerd,  als een junior helpdeskmedewerker/netwerkbeheerder werken. Ik zie mezelf tickets oplossen en ook zie ik mezelf ervaring opbouwen in de cloud omgeving als junior. Dat is mijn eerste doel. Een job vinden als junior waar ik in contact kan komen met de cloud zodat ik in de toekomst als cloud architect kan werken. Ik zie mezelf dan in de verder toekomst als cloud architect werken voor zeer grote bedrijven waar ik duizenden computers moet beheren. Een ook zie ik mezelf vooral van thuis werken. Als ik goed betaald wordt en de mogelijkheid heb om 100% thuis te werken, zal ik verhuizen naar Noord-Macedonië en mijn leven genieten in een laag inkomen land met mijn hoog inkomen.
 
 <Strong><i>Mijn evolutie tijdens WPL1</i></Strong>
+### mijn evolutie
 
 Mijn belangrijke leermomenten van WPL1 waren de volgende:
 
