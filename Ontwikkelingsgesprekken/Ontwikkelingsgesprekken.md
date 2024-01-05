@@ -19,14 +19,18 @@ Mijn belangrijke leermomenten van WPL1 waren de volgende:
 
 Dit zijn mijn <strong>sterke</strong> punten die ik deze semester heb geïdentificeerd (technische en soft skills).:
 
-* Juiste informatie zoeken, dit moesten we wanneer we de OLR app zelfstandig moesten maken. (technisch)
-* Samenwerken met de collega's, dit moesten we doen wanneer we samen met willekeurige collega's van SNE om de opdracht actualiteit te maken. (soft)
-* Gemmakelijk kan omgaan met cijfers, dit moesten we doen wanneer we de toest talstelsels moesten maken. (tecnhisch)
-* Goed kunnen communiceren met leerkrreachten indien ik iets niet begreep of fout deed. dit was bij de opdracht POP reflectieopdracht. (soft)
+* De sterke punt "juiste informatie zoeken", dit moesten we wanneer we de OLR-app zelfstandig moesten maken. (technisch)
+* De sterke punt "samenwerken met de collega's", dit moesten we doen wanneer we samen met willekeurige collega's van SNE om de opdracht actualiteit te maken. (soft)
+* De sterke punt "gemakkelijk omgaan met cijfers", Dit moesten we doen wanneer we de test talstelsels moesten maken. (technisch)
+* De sterke punt "goed kunnen communiceren met leerkrachten indien ik iets niet begreep of fout deed". Dit was bij de opdracht POP-reflectieopdracht. (soft)
+
+Dit zijn mijn ontwikkelpunten waarin ik tijdens WPL2 beter hoop te worden:
+
+* Het ontwikkelpunt "tijdmanagement". Dit omdat ik vaak op het laatste moment begin met een opdracht of met leren. Ik zou graag beter leren tijdmanagen.
+* Het ontwikkelpunt "stressmanagement". Doordat ik vaak op het laatste moment begin, heb ik vaak veel stress. Ik zou graag beter leren omgaan met stres.
+* Het ontwikkelpunt "Concentratie".  Ik ben vaak afgeleid en kan me moeilijk concentreren. Ik zou graag beter leren concentreren en minder afgeleid worden.
 
 
-<Strong> <i>zijn mijn ontwikkelpunten waarin ik tijdens WPL2 beter hoop te worden:
-(ontwikkelpunten zijn skills (technische/soft skills) waarin je beter wil worden, waarin je wil groeien)</i></Strong>
 
 
 
