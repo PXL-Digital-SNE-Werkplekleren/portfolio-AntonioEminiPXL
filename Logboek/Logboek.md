@@ -2,8 +2,8 @@
 
 ## Logboek WPL 1
 
-<img src="/images/wpl_deel1.png" alt="wpl_deel1">
-<img src="/images/wpl_deel2.png" alt="wpl_deel2">
+<img src="./images/wpl_deel1.png" alt="wpl_deel1">
+<img src="./images/wpl_deel2.png" alt="wpl_deel2">
 
 ## Logboek WPL 2
 
