@@ -35,7 +35,10 @@ Ik vond dit wel informatief en heb geleerd wat voor soort omgeving de service de
 
 ### X-factor
 
+>[X-factor.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-AntonioEminiPXL/blob/main/images/XFACTOR_Antonio_emini.pdf)
+
 ### POP- reflectie opdracht
+>[POP-reflectie.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-AntonioEminiPXL/blob/main/images/Emini_Antonio_Reflectie.pdf)
 
 ## Reflectie WPL 1
 
