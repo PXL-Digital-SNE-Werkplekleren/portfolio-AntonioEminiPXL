@@ -18,7 +18,7 @@
 - Hier moesten we zelf een app maken met de website Power en ervoor zorgen dat de OLR's erop staan.
 
 
-## TOP 2 Opdrachten
+### TOP 2 Opdrachten
 1. POP- opdracht planning
 - Ik heb deze opdracht op nummer 1 geplaatst omdat ik kon nooit goed plannen en wist ook nooit hoe ik dat moest doen, maar nu kan ik eindleijk plannen en kan ik beter mijn tijd gebruiken.
 
