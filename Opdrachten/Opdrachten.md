@@ -22,8 +22,13 @@
 1. POP- opdracht planning
 - Ik heb deze opdracht op nummer 1 geplaatst omdat ik kon nooit goed plannen en wist ook nooit hoe ik dat moest doen, maar nu kan ik eindleijk plannen en kan ik beter mijn tijd gebruiken.
 
+<img src="./images/opdracht_1.png" alt="wpl_deel8">
+
 2. Carrièrecompas
 - Ik heb deze opdracht op nummer 2 geplaatst omdat dit opdracht mij heeft gemotiveerd op meer te studeren. Ook heeft het me een realistische beeld gegeven van wat ik kan verwachten na dat ik ben uitgestudeert en wat ik verder kan worden. Daarnaast heb ik ook geleerd wat welke loonsverwachtingen ik kan hebben.
+
+<img src="./images/opdracht_27.png" alt="wpl_deel7">
+
 ## Opdrachten WPL 2 
 
 ## Opdrachten WPL 3
