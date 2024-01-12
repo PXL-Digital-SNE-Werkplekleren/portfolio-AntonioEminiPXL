@@ -23,13 +23,19 @@ Deze gastspreker was eigenlijk een soort interim bureau maar alleen voor IT'ers.
 
 Kort samerngevat waren er 2 gastsprekers aanwezig en ze waren aan het praten over de toekomst van de IT en welke soorten jobs populair zijn , welke soorten jobs populair zullen worden, welke soorten skills belangerijk zijn en welke de soorten knelpuntberoepen er zijn binnen de IT.
 
-ik vond dit wel een leuke presentatie en erg informatief. ik wiest niet dat ik zoveel keuze had nadien ik ben uigestudeert.
+Ik vond dit wel een leuke presentatie en erg informatief. Ik wiest niet dat ik zoveel keuze had nadien ik ben uigestudeert.
 
 Wat ik hier uit heb geleerd is dat werken met de cloud zeer handige skill in de jobmarket is en ook weet ik waar ik jobs kan vinden nadat ik ben afgestudeert. ook welke soorten clouden meest gebruikt waren
 
 ### Carglass gastspreker
 
-Deze gastspreker was een verantwoordelijke van de IT afdeling van carglass
+Deze gastspreker was de verantwoordelijke van de service desk afdeling van carglass. Ze vertelden over hun verhaal over hoe ze hun lage klantentevredenheid naar omhoog hebben gedaan door een aantal speciale manieren te gebruiken en oplossingen.
+
+Ik vond dit wel informatief en heb geleerd wat voor soort omgeving de service desk afdeeling is. Ook heb ik geleerd dat ik niet in zo een soort omgeving wil werken want het lijkt me vrij saai en daarom was dit presentatie voor mij ook interessant.
+
+### X-factor
+
+### POP- reflectie opdracht
 
 ## Reflectie WPL 1
 
