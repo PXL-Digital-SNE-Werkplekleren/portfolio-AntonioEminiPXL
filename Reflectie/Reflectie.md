@@ -40,6 +40,22 @@ Ik vond dit wel informatief en heb geleerd wat voor soort omgeving de service de
 ### POP- reflectie opdracht
 >[POP-reflectie.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-AntonioEminiPXL/blob/main/images/Emini_Antonio_Reflectie.pdf)
 
+### Van welk resultaat van WPL1 ben je vooral trots en waarom?
+- het resultaat dat ik trots op ben tijdens WPL1 is zeker de toets van talstelsels want ik heb daar 17/20.
+
+### Wat weet je al over de soort van job die je later wil uitoefenen?
+- Wat ik al weet over welke job dat ik later wil uitoefenen is dat ik zeker of te wel in de cloud richting als cloud architect of richting de cybersecurity richting als security expert
+
+### Waarover zou je nog wel een gastseminarie willen tijdens WPL2?
+
+- Ik zou graag een gastseminaris willen tijdens WPL2 over het leven als een cloud architect. Dat zou voor mij erg interessant zijn.
+- 
+### Welk inzicht heeft WPL1 jou gebracht?
+
+- De inzicht dat WPL1 mij heeft gebracht is vooral wat je kan verwachten nadien je bent uitgestudeert. wat voor mogelijkheden er zijn maar ook veel over mezelf geleerd met verschillende opddrachten en ook hoe ik mezelf kan verbeteren.
+  
+### Wat hoop je in WPL2 te leren en ontdekken? Wat zijn je voornemens?
+- Ik hoop dat er meer praktijk zal zijn tijdens WPL2. Meerecht hands on werken zoals een netwerk bouwen. Mijn voornemenszijn dat ik meer zal studeren en beter 
 ## Reflectie WPL 1
 
 ## Reflectie WPL 2
