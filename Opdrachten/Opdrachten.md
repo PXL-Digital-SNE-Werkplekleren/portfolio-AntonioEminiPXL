@@ -37,9 +37,10 @@ Gemaakte opdrachten:
 2. Dualboot installatie
 3. DC installatie
 4. Bestaande windows Pc's aanhangen aan Domein
-5. LAPS implementatie
-6. Webserver installatie
-7. Monitoringstool installatie
+5. Pi-hole installatie
+6. LAPS implementatie
+7. Webserver installatie
+8. Monitoringstool installatie
 
 korte samenvatting:
 
