@@ -62,8 +62,16 @@ opdrachten en korte uitleg:
 
 Ik heb een Ubuntu Linux-server gedownload, ingesteld en verbonden met het internet om onze serverinfrastructuur te versterken. Daarnaast heb ik op één machine twee besturingssystemen geïnstalleerd en geconfigureerd, zodat je bij het opstarten kunt kiezen tussen Windows en Linux, wat flexibiliteit biedt voor verschillende toepassingen. Ik heb een domeincontroller opgezet om centraal gebruikers en computers te beheren, en onze Windows-computer eraan gekoppeld voor gedeelde gebruikersprofielen en netwerkbronnen, wat zorgt voor een efficiëntere netwerkbeheer. Verder heb ik Pi-hole geïnstalleerd om games en porn-sites op ons netwerk centraal te blokkeren, waardoor de netwerkveiligheid en productiviteit worden verhoogd. Ik heb LAPS geïmplementeerd om automatisch beheerderswachtwoorden te beheren en te wijzigen, wat de beveiliging van onze systemen versterkt. Daarnaast heb ik een webserver opgezet om onze eigen schoolwebsites te hosten, waardoor we een robuuste online aanwezigheid kunnen behouden. Tot slot heb ik een monitoringstool geïnstalleerd om onze netwerk- en serverprestaties continu te volgen en te optimaliseren, wat helpt bij het snel identificeren en oplossen van potentiële problemen.
 
-(wat lukte je goed / wat ging minder goed), hoe was jullie
-teamsamenwerking, hoe ben jij gegroeid op het vlak van technische skills en soft skills
+- Wat lukte je goed
+Wat me goed is gelukt is 
+
+- Wat ging minder goed
+
+- hoe was jullie teamsamenwerking,
+
+- hoe ben jij gegroeid op het vlak van technische skills
+  
+- soft skills
 
 ## Reflectie WPL 3
 
