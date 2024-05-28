@@ -62,15 +62,6 @@ opdrachten en korte uitleg:
 
 Ik heb een Ubuntu Linux-server gedownload, ingesteld en verbonden met het internet om onze serverinfrastructuur te versterken. Daarnaast heb ik op één machine twee besturingssystemen geïnstalleerd en geconfigureerd, zodat je bij het opstarten kunt kiezen tussen Windows en Linux, wat flexibiliteit biedt voor verschillende toepassingen. Ik heb een domeincontroller opgezet om centraal gebruikers en computers te beheren, en onze Windows-computer eraan gekoppeld voor gedeelde gebruikersprofielen en netwerkbronnen, wat zorgt voor een efficiëntere netwerkbeheer. Verder heb ik Pi-hole geïnstalleerd om games en porn-sites op ons netwerk centraal te blokkeren, waardoor de netwerkveiligheid en productiviteit worden verhoogd. Ik heb LAPS geïmplementeerd om automatisch beheerderswachtwoorden te beheren en te wijzigen, wat de beveiliging van onze systemen versterkt. Daarnaast heb ik een webserver opgezet om onze eigen schoolwebsites te hosten, waardoor we een robuuste online aanwezigheid kunnen behouden. Tot slot heb ik een monitoringstool geïnstalleerd om onze netwerk- en serverprestaties continu te volgen en te optimaliseren, wat helpt bij het snel identificeren en oplossen van potentiële problemen.
 
-Installatie Ubuntu Linux Server
-Dualboot installatie
-DC installatie
-Bestaande windows Pc's aanhangen aan Domein
-Pi-hole installatie
-LAPS implementatie
-Webserver installatie
-Monitoringstool installatie
-
 - Wat lukte je goed
 1. <strong>Installatie Ubuntu Linux Server</strong>
 2. <strong>Dualboot installatie</strong>
@@ -85,13 +76,13 @@ Monitoringstool installatie
 - hoe was jullie teamsamenwerking
 Onze samenwerking binnen het team verliep vanaf het begin soepel, ondanks dat we willekeurig waren samengevoegd. We verdeelden de taken moeiteloos en iedereen kwam zijn afspraken na, wat ons vertrouwen in elkaar versterkte. We communiceerden openlijk wanneer we hulp nodig hadden en ondersteunden elkaar met plezier. Er waren geen problemen onderling en we werkten graag samen waardoor we een positieve en porductieve werkomgeving hebben gecreëerd.
 
-- hoe ben jij gegroeid op het vlak van technische skills
+- Hoe ben jij gegroeid op het vlak van technische skills
 
 Op het vlak van technische vaardigheden ben ik sterk gegroeid door de opdrachten die ik tijdens de sprints heb uitgevoerd. Alles wat we hebben gemaakt, heeft me gedwongen om nieuwe kennis op te doen, en deze leerervaringen neem ik mee voor de rest van mijn leven. Hierdoor heb ik ook leren effiënt en juist opzoeken.
   
-- soft skills
+- Soft skills
 
-Op het vlak van soft skills heb ik beter leren samenwerken dankzij mijn team en heb ik ook geleerd om hulp te vragen wanneer dat nodig is. Daarnaast heb ik mijn zelfstandigheid verder ontwikkeld door werkplekleren. Hierbij kreeg ik opdrachten zonder uitgebreide uitleg, wat me dwong om zelf uit te zoeken hoe alles in elkaar zit
+Op het vlak van soft skills heb ik beter leren samenwerken dankzij mijn team en heb ik ook geleerd om hulp te vragen wanneer dat nodig is. Daarnaast heb ik mijn zelfstandigheid verder ontwikkeld door werkplekleren. Hierbij kreeg ik opdrachten zonder uitgebreide uitleg, wat me dwong om zelf uit te zoeken hoe alles in elkaar zit.
 
 ## Reflectie WPL 3
 
