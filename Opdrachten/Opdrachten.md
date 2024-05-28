@@ -44,7 +44,7 @@ Gemaakte opdrachten:
 
 korte samenvatting:
 
-Dit zijn de technische opdrachten die ik heb uitgevoerd: Ik heb een Ubuntu Linux-server gedownload, ingesteld en verbonden met het internet. Daarnaast heb ik op één machine twee besturingssystemen geïnstalleerd en geconfigureerd, zodat je bij het opstarten kunt kiezen tussen Windows en Linux. Ik heb een domeincontroller opgezet om centraal gebruikers en computers te beheren, en onze Windows-computer eraan gekoppeld voor gedeelde gebruikersprofielen en netwerkbronnen. Verder heb ik Pi-hole geïnstalleerd om games en porn-sites op ons netwerk centraal te blokkeren en LAPS geïmplementeerd om automatisch beheerderswachtwoorden te beheren en te wijzigen. Ik heb ook een webserver opgezet om onze eigen websites te hosten en een monitoringstool geïnstalleerd om onze netwerk- en serverprestaties te volgen.
+Dit zijn de technische opdrachten die ik heb uitgevoerd: Ik heb een Ubuntu Linux-server gedownload, ingesteld en verbonden met het internet. Daarnaast heb ik op één machine twee besturingssystemen geïnstalleerd en geconfigureerd, zodat je bij het opstarten kunt kiezen tussen Windows en Linux. Ik heb een domeincontroller opgezet om centraal gebruikers en computers te beheren, en onze Windows-computer eraan gekoppeld voor gedeelde gebruikersprofielen en netwerkbronnen. Verder heb ik Pi-hole geïnstalleerd om games en porn-sites op ons netwerk centraal te blokkeren en LAPS geïmplementeerd om automatisch beheerderswachtwoorden te beheren en te wijzigen. Ik heb ook een webserver opgezet om onze eigen schoolwebsites te hosten en een monitoringstool geïnstalleerd om onze netwerk- en serverprestaties te volgen.
 
 
 ## Opdrachten WPL 3
