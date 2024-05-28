@@ -57,21 +57,13 @@ Ik vond dit wel informatief en heb geleerd wat voor soort omgeving de service de
 - Ik hoop dat er meer praktijk zal zijn tijdens WPL2. Meer echt hands on werken zoals een netwerk bouwen. Mijn voornemens zijn dat ik meer zal studeren en beter 
 
 ## Reflectie WPL 2
-In de rubriek “Reflectie” van WPL2 tot slot, maak je een persoonlijke eindreflectie.
-Als eindreflectie beschrijf je in een 10 à 15-tal zinnen wat je hebt gedaan tijdens WPL2. Vul dit
-rechtstreeks in je portfolio aan. Je maakt dit persoonlijk (individueel). Beschrijf hoe je de
-opdrachten hebt ervaren (wat lukte je goed / wat ging minder goed), hoe was jullie
-teamsamenwerking, hoe ben jij gegroeid op het vlak van technische skills en soft skills. Deze
-eindreflectie vat je ook samen in bullets in slides op in de eindpresentatie.
 
-opdracht 1
-de Eerste opdracht dat ik heb gedaan was een ubuntu server installeren. het installeren ervan was vrij gemakkelijk want je moest maar de handlieding volgen dat de leerkachten klaar hadden gezet, maar je moest een specifieke fie configureren zodat je internet hebt en tot ik die file kon vinden duurde dat mij wel even en dat was het moelijkste deel van deze opdracht.
-de tweede opdracht dat ik had was de dualboot installeren. Het leek mij erg moeilijk want ik heb nog nooit van dualboot gehoord en nu moet ik dat ineens installeren. maar gelukkig liep het installatie vlot en gemakelijk, want je moest maar genoeg plaats hebben en je kan het configureren dat je 2 besturingsystemen kon kiezen. Dit was dan dan voor mij de gemakkelijkste opdracht van heel WPL2
-de derde opdracht dat ik moest maken was de DC installeren. dit verliep ook vlot en snel want ik had goed opgelet tijdens de windows lessen en dat heeft mij enrom geholpen.
-de vierde opdracht was bestaande windows pc's hangen aan de domein. dit was ook gemakkelijk womdat ik opgelet had tijdens de windows lessen. ik had hier ook geen porblemen mee.
-de 5de opdracht was pi-hole installeren en dit is een enorm makkelijke opdracht maar ik deed dit helemaal verkeerd. ik begon dit porberen te installeren op een windows pc terwijl je dit op een linux server moest configureren. Het duurde mij even voor ik kon begrijpen dat je het op een linux machine kon installeren en nadien kwam ik weer tegen een muur gelopen omdat mijn geblockeerde webpagina's niet wilde blokkeren en ik snapte niet waarom. tot ik die probleem moest vinden duurde mij dat ook erg lang maar was mij uiteindelijk gelukt.
-de 6de opdracht dat ik moest doen was LAPS implementeren. Dit was niet moeilijk maar ook niet gemakkelijk. ik had veel opzoekwerk moeten doen voor ik het tewerk kreeg en eindelijk LAPS kon gebruiken maar in het algemeen lukte het wel zowat.
-de 7de opdracht was een webserver installeren. het was wel gemakkelijk maar niet echt
+opdrachten en korte uitleg:
+
+Ik heb een Ubuntu Linux-server gedownload, ingesteld en verbonden met het internet om onze serverinfrastructuur te versterken. Daarnaast heb ik op één machine twee besturingssystemen geïnstalleerd en geconfigureerd, zodat je bij het opstarten kunt kiezen tussen Windows en Linux, wat flexibiliteit biedt voor verschillende toepassingen. Ik heb een domeincontroller opgezet om centraal gebruikers en computers te beheren, en onze Windows-computer eraan gekoppeld voor gedeelde gebruikersprofielen en netwerkbronnen, wat zorgt voor een efficiëntere netwerkbeheer. Verder heb ik Pi-hole geïnstalleerd om games en porn-sites op ons netwerk centraal te blokkeren, waardoor de netwerkveiligheid en productiviteit worden verhoogd. Ik heb LAPS geïmplementeerd om automatisch beheerderswachtwoorden te beheren en te wijzigen, wat de beveiliging van onze systemen versterkt. Daarnaast heb ik een webserver opgezet om onze eigen schoolwebsites te hosten, waardoor we een robuuste online aanwezigheid kunnen behouden. Tot slot heb ik een monitoringstool geïnstalleerd om onze netwerk- en serverprestaties continu te volgen en te optimaliseren, wat helpt bij het snel identificeren en oplossen van potentiële problemen.
+
+(wat lukte je goed / wat ging minder goed), hoe was jullie
+teamsamenwerking, hoe ben jij gegroeid op het vlak van technische skills en soft skills
 
 ## Reflectie WPL 3
 
