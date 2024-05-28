@@ -70,8 +70,8 @@ de tweede opdracht dat ik had was de dualboot installeren. Het leek mij erg moei
 de derde opdracht dat ik moest maken was de DC installeren. dit verliep ook vlot en snel want ik had goed opgelet tijdens de windows lessen en dat heeft mij enrom geholpen.
 de vierde opdracht was bestaande windows pc's hangen aan de domein. dit was ook gemakkelijk womdat ik opgelet had tijdens de windows lessen. ik had hier ook geen porblemen mee.
 de 5de opdracht was pi-hole installeren en dit is een enorm makkelijke opdracht maar ik deed dit helemaal verkeerd. ik begon dit porberen te installeren op een windows pc terwijl je dit op een linux server moest configureren. Het duurde mij even voor ik kon begrijpen dat je het op een linux machine kon installeren en nadien kwam ik weer tegen een muur gelopen omdat mijn geblockeerde webpagina's niet wilde blokkeren en ik snapte niet waarom. tot ik die probleem moest vinden duurde mij dat ook erg lang maar was mij uiteindelijk gelukt.
-de 5de opdracht dat ik moest doen was LAPS implementeren. Dit was niet moeilijk maar ook niet gemakkelijk. ik had veel opzoekwerk moeten doen voor ik het tewerk kreeg en eindelijk LAPS kon gebruiken maar in het algemeen lukte het wel zowat.
-de 6de opdracht 
+de 6de opdracht dat ik moest doen was LAPS implementeren. Dit was niet moeilijk maar ook niet gemakkelijk. ik had veel opzoekwerk moeten doen voor ik het tewerk kreeg en eindelijk LAPS kon gebruiken maar in het algemeen lukte het wel zowat.
+de 7de opdracht was een webserver installeren. het was wel gemakkelijk maar niet echt
 
 ## Reflectie WPL 3
 
