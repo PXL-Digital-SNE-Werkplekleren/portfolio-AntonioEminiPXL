@@ -11,7 +11,7 @@
 
 
 ## Logboek WPL 2
-<img src="./images/wpl3 -plan.png" alt="wpl3">
+Zie opdrachten en reflectie
 
 ## Logboek WPL 3
 
