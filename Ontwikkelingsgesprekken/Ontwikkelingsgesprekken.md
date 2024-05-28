@@ -39,6 +39,7 @@ Dit zijn mijn ontwikkelpunten waarin ik tijdens WPL2 beter hoop te worden:
 
 
 ## Overzicht ontwikkelingsgesprekken WPL 2
+zie opdrachten en reflectie
 
 ## Overzicht ontwikkelingsgesprekken WPL 3
 
