@@ -72,16 +72,16 @@ Webserver installatie
 Monitoringstool installatie
 
 - Wat lukte je goed
-<strong>Installatie Ubuntu Linux Server</strong>
-<strong>Dualboot installatie</strong>
-<strong>DC installatie</strong>
-<strong>Bestaande windows Pc's aanhangen aan Domein</strong>
-<strong>LAPS implementatie</strong>
-<strong>Monitoringstool installatie</strong>
+1. <strong>Installatie Ubuntu Linux Server</strong>
+2. <strong>Dualboot installatie</strong>
+3. <strong>DC installatie</strong>
+4. <strong>Bestaande windows Pc's aanhangen aan Domein</strong>
+5. <strong>LAPS implementatie</strong>
+6. <strong>Monitoringstool installatie</strong>
 
 - Wat ging minder goed
-<strong>Webserver installatie</strong>
-<strong>Pi-hole installatie</strong>
+7. <strong>Webserver installatie</strong>
+8. <strong>Pi-hole installatie</strong>
 - hoe was jullie teamsamenwerking
 Onze samenwerking binnen het team verliep vanaf het begin soepel, ondanks dat we willekeurig waren samengevoegd. We verdeelden de taken moeiteloos en iedereen kwam zijn afspraken na, wat ons vertrouwen in elkaar versterkte. We communiceerden openlijk wanneer we hulp nodig hadden en ondersteunden elkaar met plezier. Er waren geen problemen onderling en we werkten graag samen waardoor we een positieve en porductieve werkomgeving hebben gecreëerd.
 
