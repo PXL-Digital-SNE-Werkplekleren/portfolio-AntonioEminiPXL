@@ -11,6 +11,7 @@
 
 
 ## Logboek WPL 2
+<img src="./images/wpl3 -plan.png" alt="wpl3">
 
 ## Logboek WPL 3
 
