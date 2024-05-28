@@ -74,7 +74,7 @@ Ik heb een Ubuntu Linux-server gedownload, ingesteld en verbonden met het intern
 7. <strong>Webserver installatie</strong>
 8. <strong>Pi-hole installatie</strong>
 
-- hoe was jullie teamsamenwerking
+- Hoe was jullie teamsamenwerking
 
 Onze samenwerking binnen het team verliep vanaf het begin soepel, ondanks dat we willekeurig waren samengevoegd. We verdeelden de taken moeiteloos en iedereen kwam zijn afspraken na, wat ons vertrouwen in elkaar versterkte. We communiceerden openlijk wanneer we hulp nodig hadden en ondersteunden elkaar met plezier. Er waren geen problemen onderling en we werkten graag samen waardoor we een positieve en porductieve werkomgeving hebben gecreëerd.
 
