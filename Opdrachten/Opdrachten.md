@@ -13,7 +13,7 @@
 ### Opdracht zelfstudie gerelateerd IT
 - Hier moesten we een zelfstudie en een willeuekirg module kiezen dat gerelateerd is met onze opleiding. Ik heb via youtube een volledige cursus Python gevolgd (https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=1s)
 ### Opdracht netwerken
-- Hier moesten we een congiguration file maken en op github uploaden
+- Hier moesten we een congfiguration file maken en op github uploaden
 ### Power App OLR
 - Hier moesten we zelf een app maken met de website Power en ervoor zorgen dat de OLR's erop staan.
 
@@ -29,7 +29,9 @@
 
 <img src="./images/opdracht_27.png" alt="wpl_deel7">
 
-## Opdrachten WPL 2 
+## Opdrachten WPL 2
+
+Ik heb een Ubuntu Linux-server gedownload, ingesteld en verbonden met het internet. Daarnaast heb ik op één machine twee besturingssystemen geïnstalleerd en geconfigureerd, zodat je bij het opstarten kunt kiezen tussen Windows en Linux. Ik heb een domeincontroller opgezet om centraal gebruikers en computers te beheren, en onze Windows-computer eraan gekoppeld voor gedeelde gebruikersprofielen en netwerkbronnen. Verder heb ik Pi-hole geïnstalleerd om games en porn-sites op ons netwerk centraal te blokkeren en LAPS geïmplementeerd om automatisch beheerderswachtwoorden te beheren en te wijzigen. Ik heb ook een webserver opgezet om onze eigen websites te hosten en een monitoringstool geïnstalleerd om onze netwerk- en serverprestaties te volgen.
 
 ## Opdrachten WPL 3
 
