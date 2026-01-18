@@ -78,9 +78,9 @@ Ik beschreef dat ik in het begin weinig vertrouwen kreeg om taken alleen uit te 
 
 
 
-Intervisie leerdoelen en werkkwaliteiten: ik analyseerde mijn kernkwaliteiten – onder andere systematisch, eerlijk, relaxed en oplossingsgericht – met bijhorende valkuilen en uitdagingen. Op basis daarvan stelde ik drie leerdoelen op: zelfstandiger informatie opzoeken, problemen systematisch analyseren en bijdragen aan continuïteit binnen de IT-omgeving
+Intervisie leerdoelen en werkkwaliteiten: ik analyseerde mijn kernkwaliteiten. Onder andere systematisch, eerlijk, relaxed en oplossingsgericht – met bijhorende valkuilen en uitdagingen. Op basis daarvan stelde ik drie leerdoelen op: zelfstandiger informatie opzoeken, problemen systematisch analyseren en bijdragen aan continuïteit binnen de IT-omgeving
 
-WPL3-SNE_Intervisie_Leerdoelen+…
+>[WPL3-SNE_Intervisie_Leerdoelen+Werkkwaliteiten_EminiAntonio_24](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-AntonioEminiPXL/blob/main/images/WPL3-SNE_Intervisie_Leerdoelen+Werkkwaliteiten_EminiAntonio_24.pdf)
 
 .
 ## Opdrachten WPL 4
