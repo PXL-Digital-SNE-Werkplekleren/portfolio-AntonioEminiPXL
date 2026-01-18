@@ -54,7 +54,7 @@ Presentatie team11:
 >[WPL2PresentatieTeam11.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-AntonioEminiPXL/blob/main/images/WPL2PresentattieTeam11.pdf)
 
 
-## Opdrachten WPL 37
+## Opdrachten WPL 3
 
 ### Voorbereiding planningsgesprek: 
 
