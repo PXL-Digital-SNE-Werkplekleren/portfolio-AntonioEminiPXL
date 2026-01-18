@@ -8,6 +8,6 @@ In de uitwerking van het portfolio neem ik alle opdrachten op en reflecteer ik m
 
 
 
-<img src="./images/CV_Antonio.png" alt="CV_Antonio">
+<img src="./images/CV_Antonio.PNG" alt="CV_Antonio">
 
 
