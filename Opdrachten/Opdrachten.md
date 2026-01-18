@@ -84,5 +84,4 @@ Ik analyseerde mijn kernkwaliteiten. Onder andere systematisch, eerlijk, relaxed
 
 >[WPL3-SNE_Intervisie_Leerdoelen+Werkkwaliteiten_EminiAntonio_24](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-AntonioEminiPXL/blob/main/images/WPL3-SNE_Intervisie_Leerdoelen+Werkkwaliteiten_EminiAntonio_24.pdf)
 
-.
 ## Opdrachten WPL 4
