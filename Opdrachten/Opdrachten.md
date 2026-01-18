@@ -54,14 +54,15 @@ Presentatie team11:
 >[WPL2PresentatieTeam11.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-AntonioEminiPXL/blob/main/images/WPL2PresentattieTeam11.pdf)
 
 
-## Opdrachten WPL 3
-###Voorbereiding planningsgesprek: 
+## Opdrachten WPL 37
+
+### Voorbereiding planningsgesprek: 
 
 hierin heb ik per OLR beschreven waar ik technisch en op soft skills wilde groeien. Ik formuleerde realistische verwachtingen over mijn leerproces binnen de gemeente Maasmechelen en gaf aan dat ik meer zelfstandigheid wilde opbouwen bij installaties, troubleshooting en samenwerking
 
 >[Voorbereiding_Planningsgesprek.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-AntonioEminiPXL/blob/main/images/antonio_Emini_Voorbereiding_Planningsgesprek.pdf)
 
-###Pitch
+### Pitch
 
 in mijn pitch stelde ik mijn werkplek en takenpakket voor. Ik legde uit dat ik meewerk aan projecten zoals de overschakeling naar Windows 11 en de implementatie van Ninja One, en benoemde uitdagingen zoals zelfstandiger werken en sneller problemen analyseren
 
