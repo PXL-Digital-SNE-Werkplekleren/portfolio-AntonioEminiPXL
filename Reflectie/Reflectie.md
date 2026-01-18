@@ -86,5 +86,32 @@ Op het vlak van technische vaardigheden ben ik sterk gegroeid door de opdrachten
 Op het vlak van soft skills heb ik beter leren samenwerken dankzij mijn team en heb ik ook geleerd om hulp te vragen wanneer dat nodig is. Daarnaast heb ik mijn zelfstandigheid verder ontwikkeld door werkplekleren. Hierbij kreeg ik opdrachten zonder uitgebreide uitleg, wat me dwong om zelf uit te zoeken hoe alles in elkaar zit.
 
 ## Reflectie WPL 3
+### Positieve punten
+
+Tijdens mijn stage bij de gemeente Maasmechelen heb ik veel positieve ervaringen opgedaan. Ik ben tevreden over mijn groei in zelfstandigheid en verantwoordelijkheid. Ik kan nu zelfstandig laptops uitrollen via KACE, updates en labels toepassen, accounts beheren in Active Directory en netwerk- of softwareproblemen analyseren. Ook heb ik geleerd om mijn werk gestructureerd te documenteren in Topdesk.
+
+### Positieve realisaties
+
+Een belangrijke realisatie is dat ik meerdere laptops en pc’s zelfstandig heb klaargemaakt voor examens, collega’s en publieke werkposten. Daarnaast kon ik verschillende problemen  zoals licentie- en firewallproblemen zelf analyseren en oplossen. Ik ben trots dat ik nu bijdraag aan de continuïteit van de ICT-dienst en steeds minder begeleiding nodig heb om mijn taken correct uit te voeren.
+
+### Positief op de werkplek
+
+Wat me vooral bijblijft, is de werksfeer op de ICT-afdeling. Het team is behulpzaam en respectvol, waardoor ik me snel op mijn plaats voelde. De bedrijfscultuur is professioneel maar ook collegiaal: iedereen helpt elkaar en er is ruimte om te leren uit fouten. Dit zorgde ervoor dat ik met vertrouwen nieuwe dingen kon proberen.
+
+### Samenwerking
+
+De samenwerking met mijn werkplekcoach verliep goed. Ik kreeg duidelijke instructies en tegelijk voldoende vrijheid om zelf oplossingen te zoeken. Met collega’s kon ik goed overleggen en bijleren door mee te kijken hoe zij problemen aanpakten. Een werkpunt voor mezelf is om actiever vragen te stellen tijdens overleg en mijn mening vaker te delen. Ik wil dit verbeteren door na elke taak kort feedback te vragen en zo meer initiatief te tonen.
+
+### Uitdagingen
+
+De grootste uitdaging tijdens Werkplekleren was het troubleshooten van netwerkproblemen en het begrijpen van achterliggende oorzaken, vooral bij DHCP-, firewall- en installatieproblemen. In het begin twijfelde ik om zelf beslissingen te nemen, maar door begeleiding leerde ik problemen systematisch analyseren en in logische stappen op te lossen. Dit heeft mijn zelfvertrouwen sterk verbeterd.
+
+### Verbeterpunten voor WPL4
+
+Voor WPL4 wil ik me verder verdiepen in netwerkinfrastructuur en serverbeheer, aangezien dit momenteel extern wordt beheerd en ik daar nog weinig praktijkervaring mee heb. Ik wil mijn werkplekcoach vragen om me hierbij meer te betrekken of uitleg te geven over VLAN’s, PRTG-analyses en Unifi-configuratie. Daarnaast wil ik beter leren omgaan met tijdsdruk door taken beter te plannen en prioriteiten te stellen.
+
+### Vooruitblik
+
+In de toekomst wil ik mijn kennis uitbreiden over automatisering met PowerShell en Ninja One, zodat ik repetitieve taken efficiënter kan uitvoeren. Mijn talenten zoals systematisch en oplossingsgericht werken gebruik ik al, maar ik wil mijn creativiteit en flexibiliteit nog meer inzetten om proactiever oplossingen te bedenken. In WPL4 wil ik vooral meer ervaring opdoen met serverbeheer, netwerksegmentatie en automatisering, omdat dat de volgende stap is in mijn professionele ontwikkeling als systeem- en netwerkbeheerder.
 
 ## Reflectie WPL 4
