@@ -32,7 +32,7 @@ Dit zijn mijn ontwikkelpunten waarin ik tijdens WPL2 beter hoop te worden:
 * Het ontwikkelpunt "Concentratie".  Ik ben vaak afgeleid en kan me moeilijk concentreren. Ik zou graag beter leren concentreren en minder afgeleid worden.
 
 ### OLR
-<img src="./images/opdracht_3.png" alt="wpl_deel1">
+<img src="/images/opdracht_3.png" alt="wpl_deel1">
 
 
 
