@@ -58,21 +58,24 @@ Presentatie team11:
 
 ### Voorbereiding planningsgesprek: 
 
-hierin heb ik per OLR beschreven waar ik technisch en op soft skills wilde groeien. Ik formuleerde realistische verwachtingen over mijn leerproces binnen de gemeente Maasmechelen en gaf aan dat ik meer zelfstandigheid wilde opbouwen bij installaties, troubleshooting en samenwerking
+Hierin heb ik per OLR beschreven waar ik technisch en op soft skills wilde groeien. Ik formuleerde realistische verwachtingen over mijn leerproces binnen de gemeente Maasmechelen en gaf aan dat ik meer zelfstandigheid wilde opbouwen bij installaties, troubleshooting en samenwerking
 
 >[Voorbereiding_Planningsgesprek.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-AntonioEminiPXL/blob/main/images/antonio_Emini_Voorbereiding_Planningsgesprek.pdf)
 
 ### Pitch
 
-in mijn pitch stelde ik mijn werkplek en takenpakket voor. Ik legde uit dat ik meewerk aan projecten zoals de overschakeling naar Windows 11 en de implementatie van Ninja One, en benoemde uitdagingen zoals zelfstandiger werken en sneller problemen analyseren
+In mijn pitch stelde ik mijn werkplek en takenpakket voor. Ik legde uit dat ik meewerk aan projecten zoals de overschakeling naar Windows 11 en de implementatie van Ninja One, en benoemde uitdagingen zoals zelfstandiger werken en sneller problemen analyseren
 
->WPL3_Intervisie_Pitch__Emini_Antonio.pdf.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-AntonioEminiPXL/blob/main/images/WPL3_Intervisie_Pitch__Emini_Antonio.pdf)
+>[WPL3_Intervisie_Pitch__Emini_Antonio.pdf.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-AntonioEminiPXL/blob/main/images/WPL3_Intervisie_Pitch__Emini_Antonio.pdf)
 
 
 
-Probleemsituatie en advies: ik beschreef dat ik in het begin weinig vertrouwen kreeg om taken alleen uit te voeren. Tijdens de intervisie besprak ik dat ik dit wilde aanpakken door meer initiatief te tonen, kleine projecten alleen te vragen en feedback te gebruiken om vertrouwen op te bouwen
+### Probleemsituatie en advies
 
-ProbleemsituatieWPL3KlasEmini_A…
+Ik beschreef dat ik in het begin weinig vertrouwen kreeg om taken alleen uit te voeren. Tijdens de intervisie besprak ik dat ik dit wilde aanpakken door meer initiatief te tonen, kleine projecten alleen te vragen en feedback te gebruiken om vertrouwen op te bouwen
+
+>[ProbleemsitauatieWPL3AntonioEmini](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-AntonioEminiPXL/blob/main/images/ProbleemsituatieWPL3KlasEmini_Anotnio_Naverwerking.pdf)
+
 
 
 Intervisie leerdoelen en werkkwaliteiten: ik analyseerde mijn kernkwaliteiten – onder andere systematisch, eerlijk, relaxed en oplossingsgericht – met bijhorende valkuilen en uitdagingen. Op basis daarvan stelde ik drie leerdoelen op: zelfstandiger informatie opzoeken, problemen systematisch analyseren en bijdragen aan continuïteit binnen de IT-omgeving
