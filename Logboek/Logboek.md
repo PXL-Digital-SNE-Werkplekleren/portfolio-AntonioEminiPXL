@@ -14,5 +14,5 @@
 Zie opdrachten en reflectie
 
 ## Logboek WPL 3
-[Logboek3.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-AntonioEminiPXL/blob/main/images/Hours_Accountability_Report_ce954403_259f_4b5c_b1ba_29b54a581e9c.pdf)
+[Logboek_WPL3_Antonio_Emini.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-AntonioEminiPXL/blob/main/images/Hours_Accountability_Report_ce954403_259f_4b5c_b1ba_29b54a581e9c.pdf)
 ## Logboek WPL4
