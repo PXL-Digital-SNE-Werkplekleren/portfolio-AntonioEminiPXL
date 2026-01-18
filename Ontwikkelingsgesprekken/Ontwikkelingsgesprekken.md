@@ -50,4 +50,6 @@ Qua soft skills heb ik vooruitgang geboekt in communicatie en samenwerking: ik d
 De feedback die ik kreeg, benadrukte dat ik op de goede weg ben, maar dat ik nog verder kan groeien in netwerkinfrastructuur en actieve kennisontwikkeling (zoals zelf meer onderzoeken en documenteren over IT-ontwikkelingen). Over het algemeen werd mijn leergierige houding, nauwkeurigheid en groei in zelfstandigheid positief geëvalueerd.
 
 [WPL3-FG_AntonioEmini.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-AntonioEminiPXL/blob/main/images/Fg.pdf)
+
+[WPL3-FG_AntonioEmini.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-AntonioEminiPXL/blob/main/images/EG.pdf)
 ## Overzicht ontwikkelingsgesprekken WPL 4
