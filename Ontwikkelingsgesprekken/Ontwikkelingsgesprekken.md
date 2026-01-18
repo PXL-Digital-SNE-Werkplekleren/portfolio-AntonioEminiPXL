@@ -43,4 +43,11 @@ Zie opdrachten en reflectie
 
 ## Overzicht ontwikkelingsgesprekken WPL 3
 
+Tijdens de voorbije periode van Werkplekleren bij de gemeente Maasmechelen ben ik sterk gegroeid in zowel technische kennis als professionele vaardigheden. Ik heb geleerd om zelfstandig clients uit te rollen, systemen te configureren via KACE en Ninja One, en om te gaan met uiteenlopende gebruikersvragen via Topdesk. Mijn troubleshootingvaardigheden zijn verbeterd doordat ik regelmatig netwerk- en softwareproblemen heb geanalyseerd en opgelost, zoals bij DHCP-, firewall- en licentieproblemen. Ook kreeg ik meer inzicht in netwerkbeheer, updates en monitoring met PRTG.
+
+Qua soft skills heb ik vooruitgang geboekt in communicatie en samenwerking: ik documenteer mijn werk consequenter, overleg met collega’s en stel gerichte vragen wanneer ik hulp nodig heb. Mijn begeleiders merkten op dat ik meer zelfstandigheid en zelfvertrouwen toon bij het uitvoeren van taken en positief omga met feedback. Daarnaast houd ik rekening met veiligheid en privacy, bijvoorbeeld bij wachtwoordbeheer en gegevensoverdracht.
+
+De feedback die ik kreeg, benadrukte dat ik op de goede weg ben, maar dat ik nog verder kan groeien in netwerkinfrastructuur en actieve kennisontwikkeling (zoals zelf meer onderzoeken en documenteren over IT-ontwikkelingen). Over het algemeen werd mijn leergierige houding, nauwkeurigheid en groei in zelfstandigheid positief geëvalueerd.
+
+[<WPL3-FG_AntonioEmini.pd](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-AntonioEminiPXL/blob/main/images/GRDTNEOLRsFG.pdf)
 ## Overzicht ontwikkelingsgesprekken WPL 4
