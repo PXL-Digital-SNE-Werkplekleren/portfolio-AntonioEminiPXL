@@ -14,5 +14,5 @@
 Zie opdrachten en reflectie
 
 ## Logboek WPL 3
-
+<img src="/images/Hours_Accountability_Report_ce954403_259f_4b5c_b1ba_29b54a581e9c.pdf" alt="logboek">
 ## Logboek WPL4
