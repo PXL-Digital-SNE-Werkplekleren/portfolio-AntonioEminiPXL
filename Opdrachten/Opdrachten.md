@@ -96,5 +96,5 @@ In deze opdracht heb ik gereflecteerd over hoe ik omga met feedback op de werkpl
 
 In deze opdracht heb ik uitgebreider gereflecteerd over mijn volledige WPL4-periode. Ik besprak wat ik goed vond aan mijn werkplek, zoals de behulpzame collega’s, de afwisseling in taken en de kans om ervaring op te doen binnen een echte ICT-dienst. Daarnaast reflecteerde ik over mijn groei in technische kennis, zoals werken met NinjaOne, KACE, Active Directory, PRTG, scripting, GNS3 en Suricata. Ook ging ik in op mijn soft skills, vooral mijn groei in communicatie, zelfstandigheid en telefonische helpdeskondersteuning. Verder heb ik de link gelegd met de opleiding en aangegeven welke praktijktools volgens mij meer aan bod mogen komen, zoals device management en ticketing. Tot slot reflecteerde ik over mijn gebruik van AI tijdens werkplekleren en mijn toekomstbeeld richting systeembeheer, cloud en security
 
->[WPL_Eindreflectie_Emini_Antonio](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-AntonioEminiPXL/blob/main/images/WPL_Eindreflectie_Emini_Antonio.pdf)
+>[WPL_Eindreflectie_Emini_Antonio](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-AntonioEminiPXL/blob/main/images/WPL_Eindreflectie_Emini_Antonio2.pdf)
 
