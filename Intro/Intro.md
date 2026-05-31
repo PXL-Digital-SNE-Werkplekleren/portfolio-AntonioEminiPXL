@@ -6,6 +6,6 @@ Mijn portfolio is daarnaast ook een zeer bruikbaar en functioneel instrument om 
 In de uitwerking van het portfolio neem ik alle opdrachten op en reflecteer ik mijn eigen leerervaringen en koppel i er een eigen waardering aan. Dus, wat heb ik gedaan, hoe ging dat en wat vond ik ervan: wat betekent dat of wat zegt het over mij als persoon. ik reflecteert op regelmatige tijdstippen om een stand van zaken op te maken en te kijken waar ik kan bijsturen. ik doe dit in eerste instantie vanuit mijzelf. Maar overleg en bespreking van mijn leerinzichten met mijn coaches kunnen de uitwerking van mijn reflectiedossier verder versterken.
 # persoonlijke info
 
-<img src="/images/CV_Antonio.png" alt="CV Antonio">
+<img src="./images/CV_Antonio.png" alt="CV Antonio">
 
-
+CV_Antonio.png
