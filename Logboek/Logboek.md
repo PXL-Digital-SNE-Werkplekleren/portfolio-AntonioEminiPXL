@@ -24,4 +24,4 @@ Tijdens WPL4 heb ik veel praktijkervaring opgedaan met eerstelijns helpdesk, sys
 
 Verder heb ik als eerstelijns helpdesk technische problemen opgevolgd en opgelost rond printers, dockingstations, telefonie, netwerkverbindingen, PRTG-meldingen, gebruikersaccounts en wachtwoordproblemen. Ook heb ik meegewerkt aan infrastructuurtaken rond de backupserver en tape drive, zoals configuratie, updates, monitoring en troubleshooting. Binnen mijn graduaatsproef heb ik gewerkt aan een testomgeving met GNS3 en Suricata om netwerkverkeer te monitoren en detectieregels te testen. Mijn logboek toont vooral dat ik tijdens WPL4 actief heb meegewerkt aan helpdesk, support, systeembeheer, monitoring, automatisatie en infrastructuurtaken.
 
-[WPL4-logboek_AntonioEmini.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-AntonioEminiPXL/blob/main/images/wpl4logboekuren.pdf)
+[WPL4-logboek_AntonioEmini.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-AntonioEminiPXL/blob/main/images/wpl4log55555.pdf)
