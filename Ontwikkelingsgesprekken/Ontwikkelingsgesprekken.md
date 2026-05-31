@@ -53,3 +53,10 @@ De feedback die ik kreeg, benadrukte dat ik op de goede weg ben, maar dat ik nog
 
 [WPL3-FG_AntonioEmini.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-AntonioEminiPXL/blob/main/images/EG.pdf)
 ## Overzicht ontwikkelingsgesprekken WPL 4
+
+Tijdens de voorbije periode van WPL4 bij de gemeente Maasmechelen ben ik verder gegroeid in technische zelfstandigheid en professioneel functioneren. Ik heb mijn kennis rond systeembeheer, device management en monitoring verdiept door regelmatig te werken met NinjaOne, KACE, Active Directory en PRTG. Daarnaast heb ik laptops en pc’s uitgerold, updates uitgevoerd, toestellen opgevolgd en technische problemen geanalyseerd rond onder andere printers, dockingstations, telefonie, gebruikersaccounts en netwerkverbindingen. Ook heb ik meer ervaring opgedaan met automatisatie door scripts te maken of aan te passen voor toestelbeheer, printerinventarisatie, Secure Boot-controles en vergelijkingen tussen verschillende systemen.
+
+Mijn technische groei kwam ook sterk naar voren in mijn graduaatsproef, waar ik gewerkt heb met GNS3, Suricata en netwerkmonitoring. Daarbij heb ik geleerd om een virtuele testomgeving op te bouwen, netwerkverkeer te analyseren en detectieregels te testen. Hierdoor kreeg ik meer inzicht in netwerksecurity en in hoe monitoring kan bijdragen aan het detecteren van verdacht netwerkgedrag.
+
+Qua soft skills ben ik vooral gegroeid in communicatie, samenwerking en zelfstandigheid. In het begin moest ik nog meer leren afstemmen met collega’s, maar door feedback ben ik bewuster gaan communiceren en mijn werk duidelijker gaan documenteren in Topdesk. In mijn functioneringsgesprek kreeg ik mee dat ik nog meer aandacht moest besteden aan communicatie naar collega’s toe. Tijdens mijn evaluatiegesprek werd daarna benoemd dat ik groei heb aangetoond doorheen WPL4 en mij ben blijven inzetten. Die feedback bevestigde voor mij dat ik vooruitgang heb gemaakt, maar ook dat professioneel gedrag, duidelijke communicatie en zorgvuldigheid belangrijk blijven binnen een ICT-dienst.
+
