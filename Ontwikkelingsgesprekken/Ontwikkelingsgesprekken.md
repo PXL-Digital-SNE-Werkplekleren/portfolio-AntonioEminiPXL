@@ -60,3 +60,4 @@ Mijn technische groei kwam ook sterk naar voren in mijn graduaatsproef, waar ik 
 
 Qua soft skills ben ik vooral gegroeid in communicatie, samenwerking en zelfstandigheid. In het begin moest ik nog meer leren afstemmen met collega’s, maar door feedback ben ik bewuster gaan communiceren en mijn werk duidelijker gaan documenteren in Topdesk. In mijn functioneringsgesprek kreeg ik mee dat ik nog meer aandacht moest besteden aan communicatie naar collega’s toe. Tijdens mijn evaluatiegesprek werd daarna benoemd dat ik groei heb aangetoond doorheen WPL4 en mij ben blijven inzetten. Die feedback bevestigde voor mij dat ik vooruitgang heb gemaakt, maar ook dat professioneel gedrag, duidelijke communicatie en zorgvuldigheid belangrijk blijven binnen een ICT-dienst.
 
+[WPL4-FG-werkprestaties_EminiAntonio.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-AntonioEminiPXL/blob/main/images/WPL4-FG-werkprestaties_EminiAntonio.pdf)
