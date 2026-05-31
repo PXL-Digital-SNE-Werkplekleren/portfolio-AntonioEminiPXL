@@ -85,3 +85,12 @@ Ik analyseerde mijn kernkwaliteiten. Onder andere systematisch, eerlijk, relaxed
 >[WPL3-SNE_Intervisie_Leerdoelen+Werkkwaliteiten_EminiAntonio_24](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-AntonioEminiPXL/blob/main/images/WPL3-SNE_Intervisie_Leerdoelen+Werkkwaliteiten_EminiAntonio_24.pdf)
 
 ## Opdrachten WPL 4
+
+### Intervisie-opdracht maart – Feedback, successen en uitdagingen
+
+In deze opdracht heb ik gereflecteerd over hoe ik omga met feedback op de werkplek. Ik beschreef dat ik feedback kreeg om beter af te stemmen met collega’s, positiever te klinken aan de helpdesktelefoon en efficiënter tickets te scannen aan het begin van de dag. Eerst reageerde ik daar wat verdedigend op, maar nadien begreep ik dat deze feedback mij kon helpen om professioneler te werken. Ook heb ik stilgestaan bij een positieve realisatie: mijn bijdrage aan de migratie van KACE naar NinjaOne, waarbij ik met PowerShell lijsten vergeleek en toestellen opvolgde die nog niet in NinjaOne stonden. Daarnaast benoemde ik als uitdaging dat ik mij nog niet altijd volledig mee voelde met de IT-wereld en dat ik daarom meer IT-nieuws, documentatie en technische bronnen wil volgen.
+
+### Eindreflectie WPL4 – Werkplek, groei, opleiding, AI en vooruitblik
+
+In deze opdracht heb ik uitgebreider gereflecteerd over mijn volledige WPL4-periode. Ik besprak wat ik goed vond aan mijn werkplek, zoals de behulpzame collega’s, de afwisseling in taken en de kans om ervaring op te doen binnen een echte ICT-dienst. Daarnaast reflecteerde ik over mijn groei in technische kennis, zoals werken met NinjaOne, KACE, Active Directory, PRTG, scripting, GNS3 en Suricata. Ook ging ik in op mijn soft skills, vooral mijn groei in communicatie, zelfstandigheid en telefonische helpdeskondersteuning. Verder heb ik de link gelegd met de opleiding en aangegeven welke praktijktools volgens mij meer aan bod mogen komen, zoals device management en ticketing. Tot slot reflecteerde ik over mijn gebruik van AI tijdens werkplekleren en mijn toekomstbeeld richting systeembeheer, cloud en security
+
