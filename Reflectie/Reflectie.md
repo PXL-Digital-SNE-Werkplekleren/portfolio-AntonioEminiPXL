@@ -115,3 +115,18 @@ Voor WPL4 wil ik me verder verdiepen in netwerkinfrastructuur en serverbeheer, a
 In de toekomst wil ik mijn kennis uitbreiden over automatisering met PowerShell en Ninja One, zodat ik repetitieve taken efficiënter kan uitvoeren. Mijn talenten zoals systematisch en oplossingsgericht werken gebruik ik al, maar ik wil mijn creativiteit en flexibiliteit nog meer inzetten om proactiever oplossingen te bedenken. In WPL4 wil ik vooral meer ervaring opdoen met serverbeheer, netwerksegmentatie en automatisering, omdat dat de volgende stap is in mijn professionele ontwikkeling als systeem- en netwerkbeheerder.
 
 ## Reflectie WPL 4
+
+Tijdens WPL4 heb ik een duidelijk groeipad doorgemaakt, zowel technisch als persoonlijk. In het begin lag mijn focus vooral op het correct uitvoeren van taken en het begrijpen van de werking binnen de ICT-dienst. Naarmate de stage vorderde, merkte ik dat ik zelfstandiger werd in het analyseren van problemen, het opvolgen van tickets en het uitvoeren van technische taken. Ik kreeg meer vertrouwen in het werken met tools zoals NinjaOne, KACE, Active Directory, PRTG en Topdesk.
+
+Technisch ben ik vooral gegroeid in device management, monitoring, automatisatie en troubleshooting. Ik heb laptops en pc’s uitgerold, updates uitgevoerd, toestellen opgevolgd en problemen opgelost rond printers, dockingstations, telefonie, netwerkverbindingen en gebruikersaccounts. Daarnaast heb ik scripts gemaakt of aangepast om gegevens te vergelijken, printerinformatie aan te vullen en controles tussen systemen uit te voeren. Ook heb ik meegewerkt aan infrastructuurtaken rond de backupserver en tape drive, waardoor ik meer inzicht kreeg in het belang van back-ups, monitoring en continuïteit.
+
+Mijn graduaatsproef heeft mijn technische groei verder versterkt. Door te werken met GNS3, Suricata en netwerkmonitoring heb ik geleerd om een virtuele testomgeving op te bouwen, netwerkverkeer te analyseren en detectieregels te testen. Hierdoor kreeg ik meer inzicht in netwerksecurity en in hoe monitoring kan helpen om verdacht netwerkgedrag te detecteren.
+
+Op vlak van soft skills ben ik vooral gegroeid in communicatie, samenwerking en zelfstandigheid. In het begin was ik soms nog zenuwachtig aan de telefoon, maar door regelmatig helpdeskgesprekken op te nemen ben ik hierin veel zekerder geworden. Ik kan nu rustiger blijven, duidelijker communiceren en gerichter vragen stellen om een probleem beter te begrijpen en op te lossen. Ook heb ik geleerd dat afstemmen met collega’s belangrijk is, zeker wanneer een probleem meerdere systemen of verantwoordelijkheden raakt.
+
+Tijdens de intervisies en ontwikkelingsgesprekken heb ik stilgestaan bij mijn feedback, successen en werkpunten. Ik leerde dat feedback niet persoonlijk bedoeld is, maar bedoeld is om sterker te worden in mijn werkhouding. Vooral feedback rond communicatie, ticketopvolging en samenwerking heeft mij geholpen om bewuster te werken. Ik merk dat ik sneller zelf initiatief neem, maar ook beter weet wanneer ik hulp moet vragen of iets moet doorgeven aan collega’s.
+
+Als ik terugkijk op WPL4, ben ik tevreden over mijn groei. Ik heb niet alleen technische vaardigheden ontwikkeld, maar ook beter begrepen hoe een ICT-dienst binnen een organisatie functioneert. Ik heb geleerd dat professioneel werken meer is dan technische problemen oplossen: het gaat ook over communiceren, documenteren, samenwerken en verantwoordelijkheid nemen. Deze ervaring heeft mij bevestigd dat ik verder wil groeien richting systeembeheer, cloud, netwerkbeheer en security.
+
+>[WPL_Eindreflectie_Emini_Antonio](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-AntonioEminiPXL/blob/main/images/WPL_Eindreflectie_Emini_Antonio2.pdf)
+
